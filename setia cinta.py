@@ -1,0 +1,7 @@
+a = int(input("Masukkan angka pertama: "))
+b = int(input("Masukkan angka kedua: "))
+
+print("Hasil penjumlahan =", a + b)
+print("Hasil pengurangan =", a - b)
+print("Hasil perkalian =", a * b)
+print("Hasil pembagian =", a / b)
